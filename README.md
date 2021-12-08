@@ -1,2 +1,3 @@
 # Diary
-This is a diary that keeps your thoughts safe.
+This is a digital diary that keeps your thoughts safe.
+
